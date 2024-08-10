@@ -1,7 +1,7 @@
 # PoweBI-Data-Transformation
 Basic Data Cleaning of a store as per stakeholders requirement
 
-##Changes made in Data sheet##
+##Changes made in Global Superstore sheet##
 -----------------------------
 Orders:-
 -----------------------------
