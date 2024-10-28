@@ -15,7 +15,7 @@ People:-
 -----------------------------
 Chaged Type,
 Filtered Rows,
-Removed Black Rows,
+Removed Blank Rows,
 Promoted Headers,
 
 -----------------------------
